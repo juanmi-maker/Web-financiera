@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700;800&family=DM+Sans:wght@400;500;600&display=swap');
+
+/* ── Base ── */
+@layer base {
+  html { scroll-behavior: smooth; }
+
+  body {
+    @apply bg-cream text-ink font-body antialiased;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display text-forest-dark leading-tight;
+  }
+}
+
+/* ── Article body prose (rendered from Markdown HTML) ── */
+@layer components {
+  .prose-article h2 {
+    @apply font-display text-2xl font-bold text-forest-dark mt-10 mb-4;
+  }
+  .prose-article h3 {
+    @apply font-display text-xl font-bold text-ink mt-7 mb-3;
+  }
+  .prose-article p {
+    @apply text-ink-muted leading-relaxed mb-5;
+  }
+  .prose-article ul {
+    @apply list-disc pl-5 text-ink-muted mb-5 space-y-2;
+  }
+  .prose-article ol {
+    @apply list-decimal pl-5 text-ink-muted mb-5 space-y-2;
+  }
+  .prose-article li {
+    @apply leading-relaxed;
+  }
+  .prose-article strong {
+    @apply text-ink font-semibold;
+  }
+  .prose-article hr {
+    @apply border-cream-sand my-8;
+  }
+  .prose-article a {
+    @apply text-forest-mid underline underline-offset-2 hover:text-forest-dark;
+  }
+
+  /* Formula box */
+  .prose-article .formula-box {
+    @apply bg-forest-pale border border-forest-mint rounded-xl px-8 py-6 my-7 text-center;
+  }
+  .prose-article .formula-box .formula-box__label {
+    @apply text-xs font-bold tracking-widest uppercase text-forest-light mb-2 block;
+  }
+  .prose-article .formula-box .formula-box__eq {
+    @apply font-display text-2xl font-extrabold text-forest-dark;
+  }
+  .prose-article .formula-box .formula-box__eq em {
+    @apply not-italic text-forest-light border-b-2 border-forest-light;
+  }
+  .prose-article .formula-box .formula-box__note {
+    @apply text-sm text-ink-muted mt-3 block;
+  }
+
+  /* Tip box */
+  .prose-article .tip-box {
+    @apply bg-forest-pale border-l-4 border-forest-light rounded-r-lg px-5 py-4 my-5;
+  }
+  .prose-article .tip-box p {
+    @apply mb-0 text-ink-muted text-sm;
+  }
+
+  /* Table inside articles */
+  .prose-article .table-wrap {
+    @apply overflow-x-auto rounded-xl border border-cream-sand shadow-sm my-7;
+  }
+  .prose-article table {
+    @apply w-full border-collapse text-sm;
+  }
+  .prose-article thead {
+    @apply bg-forest-dark text-white;
+  }
+  .prose-article thead th {
+    @apply px-4 py-3 text-left font-semibold text-xs tracking-wide;
+  }
+  .prose-article tbody tr {
+    @apply border-b border-cream-sand last:border-0;
+  }
+  .prose-article tbody tr:nth-child(even) {
+    @apply bg-forest-pale;
+  }
+  .prose-article tbody td {
+    @apply px-4 py-3 text-ink-muted align-middle;
+  }
+  .prose-article .td-label {
+    @apply font-semibold text-ink;
+  }
+  .prose-article .td-highlight {
+    @apply font-semibold text-forest-mid;
+  }
+
+  /* Reading progress bar */
+  .progress-bar {
+    @apply fixed top-0 left-0 h-0.5 bg-forest-light z-50;
+    transition: width .1s linear;
+    width: 0%;
+  }
+}
