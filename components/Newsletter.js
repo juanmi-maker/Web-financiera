@@ -1,15 +1,31 @@
 import { useState } from 'react';
 
+const NEWSLETTER_URL = 'https://formspree.io/f/mwvyddbj';
+
 export default function Newsletter() {
   const [email, setEmail]   = useState('');
-  const [status, setStatus] = useState(null);
+  const [status, setStatus] = useState(null); // null | 'sending' | 'success' | 'error'
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     if (!email.includes('@')) { setStatus('error'); return; }
-    // Conecta aquí con Mailchimp, Brevo, ConvertKit, etc.
-    setStatus('success');
-    setEmail('');
+    setStatus('sending');
+
+    try {
+      const res = await fetch(NEWSLETTER_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+      if (res.ok) {
+        setStatus('success');
+        setEmail('');
+      } else {
+        setStatus('error');
+      }
+    } catch {
+      setStatus('error');
+    }
   };
 
   return (
@@ -29,13 +45,19 @@ export default function Newsletter() {
       </p>
 
       {status === 'success' ? (
-        <div className="inline-flex items-center gap-2 bg-emerald-300/20 border border-emerald-300/40 text-emerald-300 font-semibold text-sm px-5 py-3 rounded-lg">
-          ✅ ¡Perfecto! Revisa tu email para confirmar.
+        <div className="flex flex-col items-center gap-2">
+          <div className="inline-flex items-center gap-2 bg-emerald-300/20 border border-emerald-300/40 text-emerald-300 font-semibold text-sm px-5 py-3 rounded-lg">
+            ✅ ¡Suscripción confirmada! Revisa tu bandeja de entrada.
+          </div>
+          <p className="text-white/40 text-xs mt-2">
+            Te hemos enviado un email de bienvenida. Si no lo ves, revisa la carpeta de spam.
+          </p>
         </div>
       ) : (
         <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto justify-center" noValidate>
           <input
             type="email"
+            name="email"
             placeholder="tu@email.com"
             value={email}
             onChange={e => setEmail(e.target.value)}
@@ -45,15 +67,16 @@ export default function Newsletter() {
           />
           <button
             type="submit"
-            className="bg-forest-light hover:bg-forest-mid text-white font-semibold text-sm px-5 py-3 rounded-md transition-colors whitespace-nowrap cursor-pointer"
+            disabled={status === 'sending'}
+            className="bg-forest-light hover:bg-forest-mid text-white font-semibold text-sm px-5 py-3 rounded-md transition-colors whitespace-nowrap cursor-pointer disabled:opacity-60 disabled:cursor-not-allowed"
           >
-            Suscribirme →
+            {status === 'sending' ? 'Enviando…' : 'Suscribirme →'}
           </button>
         </form>
       )}
 
       {status === 'error' && (
-        <p className="text-red-400 text-xs mt-2">Introduce un email válido.</p>
+        <p className="text-red-400 text-xs mt-2">Introduce un email válido e inténtalo de nuevo.</p>
       )}
 
       <p className="text-white/30 text-xs mt-4">Sin spam. Puedes darte de baja cuando quieras.</p>

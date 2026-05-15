@@ -159,5 +159,5 @@ Definidos en `tailwind.config.js`:
 npm run dev      # Desarrollo local
 npm run build    # Build de producción
 npm run start    # Servidor de producción local
-npm run lint     # Revisar erroresclaro
+npm run lint     # Revisar errores
 ```

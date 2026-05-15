@@ -43,7 +43,7 @@ export default function PrivacidadPage() {
               {[
                 ['Denominación', 'Dinero Joven'],
                 ['Domicilio', 'Valencia, Comunidad Valenciana, España'],
-                ['Correo electrónico de privacidad', 'dinerojoven.legal@gmail.com'],
+                ['Correo electrónico de privacidad', 'dinerojovenblog@gmail.com'],
                 ['Actividad', 'Publicación de contenido educativo sobre finanzas personales'],
               ].map(([label, value]) => (
                 <div key={label} className="flex flex-col sm:flex-row sm:gap-3 py-2 border-b border-gray-100 last:border-0">
@@ -191,8 +191,8 @@ export default function PrivacidadPage() {
               <h3 className="font-semibold text-forest-dark mb-2">¿Cómo ejercer tus derechos?</h3>
               <p>
                 Para ejercer cualquiera de los derechos anteriores, el usuario deberá dirigir una comunicación escrita al Titular a través de la dirección de correo electrónico{' '}
-                <a href="mailto:dinerojoven.legal@gmail.com" className="text-forest-mid font-semibold underline underline-offset-2">
-                  dinerojoven.legal@gmail.com
+                <a href="mailto:dinerojovenblog@gmail.com" className="text-forest-mid font-semibold underline underline-offset-2">
+                  dinerojovenblog@gmail.com
                 </a>
                 , indicando: (i) el derecho que desea ejercer, (ii) su nombre completo y (iii) una copia de un documento que acredite su identidad. El Titular responderá en el plazo máximo de un mes desde la recepción de la solicitud, prorrogable dos meses adicionales en caso de solicitudes especialmente complejas.
               </p>
@@ -277,8 +277,8 @@ export default function PrivacidadPage() {
           <div className="bg-white border border-cream-sand rounded-2xl p-6 text-center">
             <p className="text-ink-muted text-xs leading-relaxed">
               Para cualquier consulta sobre el tratamiento de sus datos personales, puede contactar con el responsable del tratamiento en{' '}
-              <a href="mailto:dinerojoven.legal@gmail.com" className="text-forest-mid font-semibold underline underline-offset-2">
-                dinerojoven.legal@gmail.com
+              <a href="mailto:dinerojovenblog@gmail.com" className="text-forest-mid font-semibold underline underline-offset-2">
+                dinerojovenblog@gmail.com
               </a>
               . Comprometidos con tu privacidad desde Valencia, España.
             </p>

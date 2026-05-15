@@ -43,7 +43,7 @@ export default function AvisoLegalPage() {
               {[
                 ['Denominación del sitio', 'Dinero Joven'],
                 ['Domicilio a efectos de notificaciones', 'Valencia, Comunidad Valenciana, España'],
-                ['Correo electrónico de contacto legal', 'dinerojoven.legal@gmail.com'],
+                ['Correo electrónico de contacto legal', 'dinerojovenblog@gmail.com'],
                 ['Ámbito de actividad', 'España y Latinoamérica'],
                 ['Actividad principal', 'Publicación de contenido educativo e informativo sobre finanzas personales'],
                 ['Normativa aplicable', 'Ley 34/2002 (LSSI-CE), RGPD (UE) 2016/679, LOPDGDD 3/2018'],
@@ -227,8 +227,8 @@ export default function AvisoLegalPage() {
           <div className="bg-white border border-cream-sand rounded-2xl p-6 text-center">
             <p className="text-ink-muted text-xs leading-relaxed">
               Para cualquier consulta o comunicación legal, puede contactar con el titular del Sitio en{' '}
-              <a href="mailto:dinerojoven.legal@gmail.com" className="text-forest-mid font-semibold underline underline-offset-2">
-                dinerojoven.legal@gmail.com
+              <a href="mailto:dinerojovenblog@gmail.com" className="text-forest-mid font-semibold underline underline-offset-2">
+                dinerojovenblog@gmail.com
               </a>
               . El titular se compromete a responder en un plazo máximo de 30 días hábiles.
             </p>

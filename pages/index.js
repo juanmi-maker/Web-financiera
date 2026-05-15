@@ -51,7 +51,7 @@ export default function Home({ featuredPost, recentPosts }) {
           {/* Stats */}
           <div className="flex flex-wrap gap-8 mt-12 pt-8 border-t border-white/15">
             {[
-              ['+50',  'Artículos gratuitos'],
+              ['+30',  'Artículos gratuitos'],
               ['5 min', 'Lectura media'],
               ['0€',   'Cuesta acceder'],
             ].map(([num, label]) => (

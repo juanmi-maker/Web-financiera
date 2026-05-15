@@ -1,2 +1,12 @@
-node_modules/ 
-.next/ 
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env*.local
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.idea/
+.vscode/

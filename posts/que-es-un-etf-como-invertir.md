@@ -4,133 +4,130 @@ slug: "que-es-un-etf-como-invertir"
 excerpt: "Los ETFs son la forma más sencilla y barata de invertir en bolsa. Te explicamos exactamente qué son, cómo funcionan, cuáles elegir y cómo comprar tu primero sin cometer errores."
 date: "2024-04-22"
 category: "inversion"
-tags: ["ETF", "inversión", "bolsa", "fondos indexados", "principiantes"]
+tags: ["ETF", "inversión", "fondos indexados", "bolsa", "principiantes"]
 emoji: "📊"
-readingTime: 8
+readingTime: 9
 ---
 
-Si has investigado algo sobre inversión, habrás visto las siglas ETF en todas partes. Son el producto financiero favorito de los inversores más inteligentes del mundo — y también el más accesible para cualquier persona con 50€. Esto es todo lo que necesitas saber.
+Si has oído hablar de los ETFs pero no tienes muy claro qué son exactamente, estás en el lugar correcto. Los ETFs se han convertido en el vehículo de inversión más popular del mundo para pequeños inversores por una razón: son sencillos, baratos y efectivos.
 
-## ¿Qué es exactamente un ETF?
+## Qué es un ETF
 
-ETF significa *Exchange-Traded Fund* (fondo cotizado en bolsa). Es una cesta de activos financieros (acciones, bonos, materias primas) que cotiza en bolsa como si fuera una acción normal.
+ETF son las siglas de *Exchange-Traded Fund*, que en español significa fondo cotizado en bolsa. Es un fondo de inversión que, a diferencia de los fondos tradicionales, se compra y vende en bolsa como si fuera una acción.
 
-Cuando compras un ETF que replica el índice S&P 500, estás comprando automáticamente una pequeña parte de las 500 empresas más grandes de Estados Unidos en una sola operación.
+Pero la parte más importante es esta: la mayoría de los ETFs populares son **indexados**, es decir, replican el comportamiento de un índice de mercado.
 
-**La diferencia con una acción:** una acción es una empresa. Un ETF son cientos o miles de empresas.
+Un índice es simplemente una lista de empresas. El S&P 500, por ejemplo, recoge las 500 empresas más grandes de Estados Unidos. El MSCI World recoge más de 1.500 empresas de países desarrollados de todo el mundo.
 
-**La diferencia con un fondo de inversión clásico:** un ETF se compra y vende en tiempo real en bolsa, como una acción. Un fondo tradicional se compra y vende a precio de cierre del día.
+Cuando compras un ETF que replica el S&P 500, estás invirtiendo a la vez en Apple, Microsoft, Amazon, Google y otras 496 empresas con una sola compra.
 
-## Por qué los ETFs son tan populares
+## Por qué los ETFs son ideales para principiantes
 
-<div class="table-wrap">
-  <table>
-    <thead>
-      <tr><th>Característica</th><th>ETF indexado</th><th>Fondo de gestión activa</th><th>Acción individual</th></tr>
-    </thead>
-    <tbody>
-      <tr><td class="td-label">Diversificación</td><td class="td-highlight">Muy alta (100-7.000 empresas)</td><td>Alta</td><td>Nula (1 empresa)</td></tr>
-      <tr><td class="td-label">Comisión anual</td><td class="td-highlight">0,05% - 0,25%</td><td>1% - 2,5%</td><td>Solo comisión de compra</td></tr>
-      <tr><td class="td-label">Esfuerzo requerido</td><td class="td-highlight">Mínimo</td><td>Mínimo</td><td>Alto (análisis constante)</td></tr>
-      <tr><td class="td-label">Resultado vs mercado</td><td class="td-highlight">Igual al mercado</td><td>Peor en el 85% de casos</td><td>Variable</td></tr>
-    </tbody>
-  </table>
-</div>
+| Ventaja | Explicación |
+|---------|-------------|
+| Diversificación instantánea | Un ETF puede incluir cientos de empresas de una vez |
+| Comisiones muy bajas | Entre 0,07% y 0,30% anual. Un fondo activo cobra 1-2% |
+| Transparencia | Sabes exactamente en qué estás invertido en todo momento |
+| Accesibilidad | Puedes empezar desde 1€ (con fracciones) |
+| Liquidez | Se compran y venden en tiempo real, como acciones |
+| Sin mínimos altos | No necesitas 10.000€ para diversificar bien |
 
-El dato más importante: el 85-90% de los fondos de gestión activa obtiene peores resultados que el mercado a largo plazo. Un ETF indexado, por definición, iguala al mercado. Y cobra 10-20 veces menos en comisiones.
+Para contexto: si inviertes 10.000€ en un fondo de gestión activa que cobra 1,5% anual y en un ETF indexado que cobra 0,20%, la diferencia de comisiones tras 30 años puede superar los 20.000€. Solo por las comisiones.
 
 ## Tipos de ETFs que debes conocer
 
-### ETFs de renta variable (acciones)
+### Por lo que replican
 
-Los más populares para construir patrimonio a largo plazo:
+**ETFs de renta variable (los más comunes para empezar)**
+- ETFs de índices globales: MSCI World, FTSE All-World
+- ETFs de un país o región: S&P 500 (EEUU), Euro Stoxx 50 (Europa), Nikkei (Japón)
+- ETFs de sectores: tecnología, salud, energía renovable
 
-- **MSCI World:** ~1.500 empresas de 23 países desarrollados
-- **S&P 500:** las 500 empresas más grandes de EEUU
-- **MSCI All Country World (ACWI):** desarrollados + emergentes, más de 2.800 empresas
-- **MSCI Europe:** empresas europeas grandes y medianas
+**ETFs de renta fija**
+Invierten en bonos del Estado o empresas. Menos volatilidad, menor rentabilidad esperada. Útiles para perfiles más conservadores.
 
-### ETFs de renta fija (bonos)
+**ETFs de materias primas**
+Oro, petróleo, etc. Más especulativos, no recomendados para empezar.
 
-Más conservadores, menor rentabilidad esperada pero menor volatilidad. Para horizontes cortos o perfiles conservadores.
+### Por cómo tratan los dividendos
 
-### ETFs de materias primas
+Esta distinción es muy importante:
 
-Oro, petróleo, plata. Útiles para diversificar pero más especulativos. No recomendados como núcleo de cartera.
+**ETFs de acumulación (recomendados para largo plazo)**
+Los dividendos se reinvierten automáticamente dentro del fondo. Aprovechas al máximo el <a href="/articulos/interes-compuesto-como-funciona">interés compuesto</a> sin pagar impuestos en cada reparto.
 
-## Los mejores ETFs para empezar (selección objetiva)
+**ETFs de distribución**
+Los dividendos se te pagan directamente. Tributas por ellos cada año y tú decides qué hacer con ese dinero.
 
-### Opción 1: Un solo ETF para todo
+Para inversores a largo plazo en España, los de **acumulación** son más eficientes fiscalmente.
 
-**iShares Core MSCI World ETF** (ISIN: IE00B4L5Y983)
-- Más de 1.500 empresas de países desarrollados
-- Comisión: 0,20% anual
-- Domiciliado en Irlanda (fiscalmente eficiente para españoles)
-- Disponible en Trade Republic, DEGIRO, Interactive Brokers
+## Los ETFs más populares para empezar
 
-**Vanguard FTSE All-World ETF** (ISIN: IE00B3RBWM25)
-- Más de 3.700 empresas, incluye emergentes
-- Comisión: 0,22% anual
-- Más diversificación global
+| ETF | Ticker | Índice que replica | Nº empresas | Comisión anual |
+|-----|--------|--------------------|-------------|----------------|
+| Vanguard FTSE All-World | VWCE | FTSE All-World | ~3.700 | 0,22% |
+| iShares Core MSCI World | IWDA | MSCI World | ~1.500 | 0,20% |
+| Amundi S&P 500 | CSP1 | S&P 500 | 500 | 0,15% |
+| iShares Core MSCI EM | EIMI | MSCI Emerging Markets | ~2.900 | 0,18% |
 
-### Opción 2: Cartera simple de dos ETFs
-
-- 80% MSCI World (países desarrollados)
-- 20% MSCI Emerging Markets (países emergentes: China, India, Brasil...)
-
-Esta combinación cubre prácticamente toda la economía mundial.
+Para la mayoría de principiantes, **VWCE** o **IWDA** son el punto de partida recomendado: ofrecen diversificación global con comisiones muy bajas.
 
 ## Cómo comprar tu primer ETF paso a paso
 
-### Paso 1: Elige el bróker
+### 1. Elige un bróker
+Necesitas una cuenta en un bróker que opere en España. Las opciones más populares para principiantes:
 
-<div class="tip-box">
-  <p><strong>Para empezar con poco dinero:</strong> Trade Republic (desde 1€, comisión de 1€/operación) o MyInvestor (sin mínimo en fondos indexados, sin comisión de custodia). Para carteras más grandes: Interactive Brokers o DEGIRO.</p>
-</div>
+- **Trade Republic**: Muy fácil de usar, comisión de 1€ por operación, fracciones desde 1€
+- **Degiro**: ETFs seleccionados sin comisión una vez al mes
+- **MyInvestor**: Más orientado a fondos indexados, pero también tiene ETFs
 
-### Paso 2: Abre y verifica la cuenta
+### 2. Abre y verifica tu cuenta
+El proceso es 100% online. Necesitarás DNI o pasaporte, IBAN bancario y unos minutos para el proceso de verificación de identidad (KYC).
 
-Necesitas DNI, selfie y datos bancarios. El proceso es 100% online y tarda 10-15 minutos. La verificación suele tardar 1-2 días laborables.
+### 3. Transfiere dinero
+Desde tu banco habitual, haz una transferencia al bróker. Suele tardar 1-2 días laborables.
 
-### Paso 3: Transfiere dinero
+### 4. Busca el ETF por su ticker
+Cada ETF tiene un código único llamado ticker. Por ejemplo, VWCE para el Vanguard FTSE All-World. Búscalo directamente en el buscador del bróker.
 
-Haz una transferencia bancaria desde tu cuenta habitual. Tarda 1-2 días.
+### 5. Compra y programa aportaciones regulares
+Realiza tu primera compra. Si el bróker lo permite, programa una aportación mensual automática. La inversión periódica reduce el riesgo de comprar en el peor momento posible (se llama *dollar cost averaging* o promediado del coste).
 
-### Paso 4: Busca el ETF por ISIN
+Si quieres empezar con poco dinero, nuestra guía de <a href="/articulos/como-invertir-desde-cero-con-100-euros">cómo invertir desde cero con 100€</a> te da todos los detalles.
 
-El ISIN es el código único de cada ETF (ej: IE00B4L5Y983). Úsalo para buscarlo en tu bróker, no el nombre, que puede variar.
+## Riesgos que debes conocer
 
-### Paso 5: Compra y olvida
+### Riesgo de mercado
+El valor de un ETF puede subir o bajar. Si el S&P 500 cae un 30% (como ocurrió en 2020 o en 2008), tu ETF también caerá un 30%. La clave es no vender en esos momentos.
 
-Selecciona el importe, confirma la compra y... olvídate. Configura una aportación automática mensual si puedes y no mires la cartera más de una vez al mes.
+### Riesgo de divisa
+Si inviertes en ETFs denominados en dólares o libras, el tipo de cambio puede afectar a tu rentabilidad en euros. Para largo plazo, este efecto tiende a neutralizarse.
+
+### Riesgo de concentración
+Un ETF del S&P 500 tiene actualmente casi un 30% de su peso en las 10 mayores empresas tecnológicas de EEUU. Si ese sector cae mucho, el ETF sufre más. Por eso el MSCI World, que incluye empresas de 23 países, diversifica más.
+
+## ETFs vs fondos de inversión tradicionales vs acciones
+
+| | ETF indexado | Fondo gestión activa | Acciones individuales |
+|--|-------------|--------------------|-----------------------|
+| Comisión anual | 0,07-0,30% | 0,8-2,5% | Varía (por operación) |
+| Diversificación | Alta | Alta | Baja |
+| Transparencia | Alta | Media | Alta |
+| Gestión requerida | Mínima | Ninguna | Alta |
+| Accesibilidad | Desde 1€ | Desde 50-150€ | Variable |
 
 ## Fiscalidad de los ETFs en España
 
-Los ETFs tributan como cualquier inversión en España:
+Los ETFs tributan como cualquier activo financiero:
 
-- **Mientras no vendas:** no pagas impuestos, el dinero crece sin tributar
-- **Al vender con ganancias:** tributas por la plusvalía en el IRPF
+- **Ganancias al vender**: Tributas en IRPF como ganancia patrimonial (19-27% según tramo).
+- **Dividendos recibidos** (solo en ETFs de distribución): Tributan como rendimiento del capital mobiliario.
+- **Mientras no vendas**: No pagas impuestos.
 
-<div class="table-wrap">
-  <table>
-    <thead>
-      <tr><th>Ganancia</th><th>Tipo impositivo (2024)</th></tr>
-    </thead>
-    <tbody>
-      <tr><td class="td-label">Hasta 6.000€</td><td>19%</td></tr>
-      <tr><td class="td-label">6.000€ - 50.000€</td><td>21%</td></tr>
-      <tr><td class="td-label">50.000€ - 200.000€</td><td class="td-highlight">23%</td></tr>
-      <tr><td class="td-label">Más de 200.000€</td><td class="td-highlight">27%</td></tr>
-    </tbody>
-  </table>
-</div>
+Una diferencia importante respecto a los fondos de inversión españoles: los ETFs **no tienen traspaso fiscal**, es decir, si cambias de un ETF a otro, tributas por las ganancias en ese momento. Los fondos de inversión españoles sí permiten traspasar sin tributar.
 
-**Traspaso entre fondos:** a diferencia de las acciones, los traspasos entre fondos de inversión (no ETFs) están exentos de tributar en el momento del traspaso. Es una ventaja fiscal importante de los fondos sobre los ETFs.
+## Conclusión
 
-## El error más común con los ETFs
+Los ETFs son la herramienta de inversión más democrática que existe. Te dan acceso a cientos o miles de empresas del mundo entero con una sola compra, unas comisiones mínimas y sin necesitar conocimientos avanzados.
 
-Comprar cuando sube y vender cuando baja. Es exactamente lo contrario de lo que hay que hacer.
-
-Los mercados caen regularmente un 10-20% (correcciones normales) y ocasionalmente un 30-50% (crisis). Quien vende en esas caídas convierte una pérdida temporal en una pérdida real.
-
-Históricamente, el mercado siempre se ha recuperado. El tiempo en el mercado siempre ha ganado al *timing* del mercado.
+Si estás pensando en dar el primer paso invirtiendo, los ETFs indexados son, para la mayoría de personas, la mejor forma de hacerlo.

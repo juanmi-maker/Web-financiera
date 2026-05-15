@@ -3,75 +3,88 @@ title: "Interés compuesto: qué es y cómo hace crecer tu dinero solo"
 slug: "interes-compuesto-como-funciona"
 excerpt: "Einstein lo llamó la octava maravilla del mundo. Entiende cómo funciona el interés compuesto y por qué empezar a invertir joven es la mejor decisión financiera de tu vida."
 date: "2024-02-19"
-category: "inversion"
+category: "basicos"
 tags: ["interés compuesto", "inversión", "ahorro", "tiempo"]
-emoji: "🔄"
-readingTime: 6
+emoji: "📈"
+readingTime: 8
 ---
 
-Albert Einstein supuestamente dijo que el interés compuesto es "la octava maravilla del mundo. El que lo entiende lo gana; el que no, lo paga." No hay mejor resumen.
+Hay un concepto financiero que, una vez que lo entiendes de verdad, cambia para siempre la forma en que piensas sobre el tiempo y el dinero. Se llama interés compuesto, y es la razón por la que empezar a invertir a los 25 años es radicalmente mejor que hacerlo a los 35, aunque en ambos casos ahorres la misma cantidad total.
 
-## ¿Qué es el interés compuesto?
+## Qué es el interés compuesto
 
-El interés compuesto es ganar intereses sobre los intereses que ya has ganado. Suena simple, pero su efecto a largo plazo es brutal.
+El interés compuesto es el proceso por el cual los intereses generados por una inversión se reinvierten y, a su vez, generan más intereses. Es decir, ganas intereses sobre tus intereses.
 
-**Interés simple:** inviertes 1.000€ al 10% anual → ganas 100€ cada año.
+Contrasta con el interés simple, donde solo ganas intereses sobre el capital inicial:
 
-**Interés compuesto:** inviertes 1.000€ al 10% anual → el primer año ganas 100€ (total: 1.100€) → el segundo año ganas el 10% de 1.100€ = 110€ → el tercero sobre 1.210€ → y así indefinidamente.
+| Tipo | Cómo funciona | Ejemplo (1.000€ al 5% durante 10 años) |
+|------|--------------|----------------------------------------|
+| Interés simple | Solo sobre el capital inicial | 1.500€ |
+| Interés compuesto | Sobre capital + intereses acumulados | 1.629€ |
 
-## La magia de los números
+La diferencia parece pequeña a 10 años. A 30 años, es abismal.
 
-<div class="table-wrap">
-  <table>
-    <thead>
-      <tr><th>Años</th><th>Interés simple (10%)</th><th>Interés compuesto (10%)</th><th>Diferencia</th></tr>
-    </thead>
-    <tbody>
-      <tr><td class="td-label">10 años</td><td>2.000€</td><td>2.594€</td><td class="td-highlight">+594€</td></tr>
-      <tr><td class="td-label">20 años</td><td>3.000€</td><td>6.727€</td><td class="td-highlight">+3.727€</td></tr>
-      <tr><td class="td-label">30 años</td><td>4.000€</td><td>17.449€</td><td class="td-highlight">+13.449€</td></tr>
-      <tr><td class="td-label">40 años</td><td>5.000€</td><td>45.259€</td><td class="td-highlight">+40.259€</td></tr>
-    </tbody>
-  </table>
-</div>
+## El poder del tiempo: los números reales
 
-*Partiendo de 1.000€ iniciales. Sin aportaciones adicionales.*
+Imagina tres personas que invierten 200€ al mes en un <a href="/articulos/que-es-un-etf-como-invertir">fondo indexado</a> con una rentabilidad media anual del 7%:
 
-## La regla del 72
+| Persona | Empieza a invertir | Para de invertir | Total aportado | Resultado a los 65 años |
+|---------|-------------------|-----------------|---------------|------------------------|
+| Ana | 25 años | 65 años | 96.000€ | ~528.000€ |
+| Carlos | 35 años | 65 años | 72.000€ | ~243.000€ |
+| Marta | 45 años | 65 años | 48.000€ | ~101.000€ |
 
-Existe un truco mental para saber en cuántos años se duplica tu dinero: divide 72 entre la rentabilidad anual.
+Ana acaba con más del doble que Carlos aunque solo aportó 24.000€ más. Y casi 5 veces más que Marta. La diferencia no es el dinero: es el **tiempo**.
 
-- Al 4% → 72 ÷ 4 = **18 años** para doblar
-- Al 8% → 72 ÷ 8 = **9 años** para doblar
-- Al 12% → 72 ÷ 12 = **6 años** para doblar
+## La fórmula del interés compuesto
 
-## Por qué el tiempo es más importante que la cantidad
+Para los más curiosos, la fórmula matemática es:
 
-Comparemos a dos personas:
+**Capital final = Capital inicial × (1 + tasa de interés)^número de períodos**
 
-**Ana** empieza a invertir 200€/mes a los 25 años y para a los 35 (10 años, total aportado: 24.000€).
+Pero no necesitas hacer cálculos manualmente. Existen calculadoras de interés compuesto online donde puedes simular tus propios escenarios. Lo importante es entender el principio.
 
-**Luis** empieza a invertir 200€/mes a los 35 años y no para hasta los 65 (30 años, total aportado: 72.000€).
+## Por qué el tiempo vale más que el dinero
 
-A los 65 años, con una rentabilidad del 8% anual:
-- **Ana tiene: ~349.000€**
-- **Luis tiene: ~272.000€**
+Este es el mensaje central que debes llevarte: en el mundo del interés compuesto, **el tiempo es el activo más valioso que tienes**, y es el único que se deprecia sin posibilidad de recuperarlo.
 
-Ana aportó 3 veces menos dinero que Luis, pero empezó antes. El tiempo venció al dinero.
+Cada año que pasa sin invertir es un año que pierdes de crecimiento exponencial. No es que pierdas un poco: es que pierdes el efecto multiplicador de ese año sobre todos los que vendrán después.
 
-<div class="tip-box">
-  <p>El mejor momento para empezar a invertir fue hace 10 años. El segundo mejor momento es hoy. Cada año que esperas es interés compuesto que pierdes para siempre.</p>
-</div>
+Un euro invertido hoy a los 25 años vale aproximadamente **7,6 veces más** que ese mismo euro invertido a los 45 años (asumiendo un 7% anual).
 
-## El lado oscuro: las deudas con interés compuesto
+## Dónde aprovechar el interés compuesto
 
-El interés compuesto también funciona en tu contra. Una deuda con una tarjeta de crédito al 25% TAE que no pagas crece exponencialmente. 1.000€ de deuda sin pagar se convierten en más de 3.000€ en 5 años si solo pagas el mínimo.
+El interés compuesto funciona en cualquier vehículo de inversión que genere rendimientos y permita reinvertirlos:
 
-Por eso salir de deudas con intereses altos es, matemáticamente, la mejor "inversión" que puedes hacer.
+### ETFs y fondos indexados
+Son el vehículo favorito de los inversores a largo plazo precisamente porque los dividendos se reinvierten automáticamente (en los fondos de acumulación). Si quieres empezar, puedes leer nuestra guía sobre <a href="/articulos/como-invertir-desde-cero-con-100-euros">cómo invertir desde cero con 100€</a> o la de <a href="/articulos/que-es-un-etf-como-invertir">qué es un ETF y cómo invertir</a>.
 
-## Cómo aprovecharlo
+### Cuentas de ahorro remuneradas
+También aplica el interés compuesto, aunque a tipos mucho más bajos. Útil para el <a href="/articulos/fondo-de-emergencia-que-es-cuanto-necesitas">fondo de emergencia</a>.
 
-1. **Empieza ya**, aunque sea con poco (50-100€/mes)
-2. **No interrumpas** — cada año que paras es interés que pierdes
-3. **Reinvierte los dividendos** — no retires los beneficios, déjalos trabajar
-4. **Sé paciente** — los primeros años la curva parece lenta. La explosión viene después
+### Planes de pensiones
+Si tu empresa hace aportaciones o tienes ventajas fiscales, los <a href="/articulos/planes-de-pensiones-espana-merecen-la-pena">planes de pensiones</a> también se benefician del interés compuesto a largo plazo.
+
+## El lado oscuro: el interés compuesto en tu contra
+
+El interés compuesto también funciona cuando debes dinero. Y funciona igual de implacablemente.
+
+Una deuda de tarjeta de crédito al 20% TAE que no pagas cada mes crece a una velocidad brutal. Si debes 3.000€ y solo pagas el mínimo, puedes acabar pagando más de 6.000€ en total y tardando más de 10 años en liquidarla.
+
+Por eso es fundamental entender los <a href="/articulos/5-errores-tarjetas-credito">errores más comunes con las tarjetas de crédito</a> y, si tienes deudas de alto interés, priorizarlas antes que invertir.
+
+## Cómo empezar hoy mismo
+
+1. **Define cuánto puedes invertir cada mes**: Aunque sean 50€, el hábito importa más que la cantidad inicial.
+2. **Abre una cuenta en un broker de bajo coste**: MyInvestor, Indexa Capital, Trade Republic o Degiro son opciones populares en España.
+3. **Elige un fondo indexado de acumulación**: El MSCI World o el S&P 500 son los más populares para empezar.
+4. **Automatiza la aportación mensual**: Para que no dependa de tu fuerza de voluntad.
+5. **No toques el dinero**: El mayor error es retirar la inversión cuando el mercado cae.
+
+Si quieres dar el primer paso con poco dinero, nuestra guía de <a href="/articulos/guia-invertir-50-euros">cómo invertir tus primeros 50 euros</a> es el punto de partida perfecto.
+
+## Conclusión
+
+El interés compuesto es la única fuerza del universo financiero que trabaja para ti mientras duermes, mientras vives tu vida, mientras haces otras cosas. Pero tiene una condición: necesita tiempo. Mucho tiempo.
+
+La mejor decisión financiera que puedes tomar hoy no es elegir la acción perfecta ni el bróker más barato. Es **empezar**.

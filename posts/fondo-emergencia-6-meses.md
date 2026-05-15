@@ -3,109 +3,128 @@ title: "Cómo crear tu fondo de emergencia en 6 meses (plan paso a paso)"
 slug: "fondo-emergencia-6-meses"
 excerpt: "Un plan concreto para tener 3 meses de gastos guardados antes de que acabe el año. Con ejemplos reales y estrategias para acelerar el proceso."
 date: "2024-03-04"
-category: "basicos"
-tags: ["fondo de emergencia", "ahorro", "seguridad financiera", "plan"]
+category: "ahorro"
+tags: ["fondo de emergencia", "ahorro", "plan de ahorro", "finanzas básicas"]
 emoji: "🛡️"
-readingTime: 6
+readingTime: 8
 ---
 
-Saber que necesitas un fondo de emergencia es fácil. Construirlo cuando el dinero es justo es otra historia. Este artículo es un plan concreto de 6 meses para llegar a tener 3 meses de gastos guardados.
+Ya sabes qué es un fondo de emergencia y por qué lo necesitas (si no, primero lee nuestra guía de <a href="/articulos/fondo-de-emergencia-que-es-cuanto-necesitas">qué es un fondo de emergencia</a>). El reto es construirlo cuando el dinero es justo y el objetivo parece lejano.
 
-## Antes de empezar: calcula tu número objetivo
+Este es el plan mes a mes para tenerlo en 6 meses.
 
-Tu fondo de emergencia ideal = **gastos esenciales mensuales × 3**.
+## Antes de empezar: define tu número objetivo
 
-Los gastos esenciales son solo lo imprescindible: alquiler o hipoteca, comida, suministros, transporte básico, seguros. Nada de ocio, suscripciones ni caprichos.
+El fondo de emergencia debe cubrir entre 3 y 6 meses de **gastos esenciales** (no todos tus gastos, solo los imprescindibles para vivir).
 
-<div class="table-wrap">
-  <table>
-    <thead>
-      <tr><th>Concepto</th><th>Ejemplo</th><th>Tu cifra</th></tr>
-    </thead>
-    <tbody>
-      <tr><td class="td-label">Alquiler / hipoteca</td><td>600€</td><td></td></tr>
-      <tr><td class="td-label">Comida y supermercado</td><td>250€</td><td></td></tr>
-      <tr><td class="td-label">Transporte</td><td>80€</td><td></td></tr>
-      <tr><td class="td-label">Suministros (luz, agua, internet)</td><td>90€</td><td></td></tr>
-      <tr><td class="td-label">Seguros esenciales</td><td>40€</td><td></td></tr>
-      <tr><td class="td-label"><strong>Total mensual esencial</strong></td><td class="td-highlight"><strong>1.060€</strong></td><td></td></tr>
-      <tr><td class="td-label"><strong>Objetivo fondo (×3)</strong></td><td class="td-highlight"><strong>3.180€</strong></td><td></td></tr>
-    </tbody>
-  </table>
-</div>
+Suma estos conceptos para el mes:
+- Alquiler o hipoteca
+- Alimentación
+- Suministros (luz, agua, gas, internet, teléfono)
+- Transporte necesario para trabajar
+- Seguros obligatorios
+- Cuotas mínimas de deudas (si las tienes)
 
-## El plan mes a mes
+Multiplica el resultado por 3 (o por 6 si eres autónomo o tienes ingresos variables). Ese es tu objetivo.
 
-Vamos a partir del ejemplo de 3.180€ como objetivo, con una capacidad de ahorro de 530€/mes (puede ser más o menos según tu situación).
+**Ejemplo**: Gastos esenciales de 900€/mes → Objetivo mínimo: 2.700€
 
-### Mes 1 — Configuración y primer impulso
+## Mes 1: El despegue
 
-**Objetivo: 500€**
+### Lo que haces este mes
+1. **Abre una cuenta de ahorro separada** (no tu cuenta corriente habitual). Busca una que no tenga comisiones y, si puede ser, que ofrezca algo de rentabilidad.
+2. **Fija una cantidad inicial** aunque sea simbólica: 50€, 100€, lo que puedas. La apertura psicológica importa.
+3. **Configura una transferencia automática** para el día que cobras.
+4. **Audita tus suscripciones**: Cancela todo lo que no uses activamente. El dinero liberado va al fondo.
 
-- Abre una cuenta de ahorro separada con nombre propio ("Escudo financiero" o similar)
-- Programa una transferencia automática el día que cobras
-- Vende cosas que no usas: ropa, electrónica, muebles. Un fin de semana de limpieza puede generar 100-300€ fácilmente
-- Cancela suscripciones que no uses activamente
+### Objetivo del mes 1
+Tener entre 100€ y 300€ en la cuenta de emergencia y el hábito de la transferencia automática establecido.
 
-<div class="tip-box">
-  <p>El primer mes es el más difícil psicológicamente. La cantidad parece pequeña y el objetivo lejano. <strong>Hazlo de todas formas.</strong> El hábito vale más que el importe.</p>
-</div>
+## Mes 2: El análisis de gastos
 
-### Mes 2 — Optimización de gastos
+### Lo que haces este mes
+1. **Revisa tus extractos** de los últimos 3 meses y clasifica cada gasto. ¿Dónde se va realmente tu dinero? Muchas personas descubren gastos que habían olvidado completamente.
+2. **Identifica 3 categorías donde puedes gastar menos** sin impacto significativo en tu calidad de vida. No todo, solo tres.
+3. **Aplica esos recortes este mes** y añade la diferencia al fondo.
 
-**Objetivo: 1.000€ acumulados**
+Para este análisis, la guía de <a href="/articulos/como-hacer-presupuesto-personal">cómo hacer un presupuesto personal</a> te dará el marco metodológico.
 
-- Revisa tus facturas de luz, gas e internet: ¿hay tarifas mejores?
-- Compara seguros: el seguro del coche o del hogar puede tener mejores precios en otra compañía
-- Reduce la comida fuera a la mitad este mes: cada comida fuera que evitas son 10-15€ directos al fondo
+### Objetivo del mes 2
+Identificar entre 50€ y 150€ adicionales al mes que pueden ir al fondo, y empezar a aplicarlo.
 
-### Mes 3 — Mantener el ritmo
+## Mes 3: El acelerador del supermercado
 
-**Objetivo: 1.600€ acumulados**
+El gasto en alimentación es uno de los más controlables. Este mes te centras en optimizarlo.
 
-- El mes 3 es donde mucha gente abandona porque el progreso parece lento
-- Visualiza el objetivo: ¿cuántos meses de seguridad tienes ya? Con 1.600€ ya tienes más de 1,5 meses cubiertos
-- Si tuviste algún gasto imprevisto este mes y no llegaste al objetivo, no abandones. Ajusta y sigue
+### Lo que haces este mes
+1. **Planifica el menú semanal** antes de cada compra. Compra solo lo que necesitas.
+2. **Introduce más marcas blancas** en básicos (pasta, arroz, legumbres, aceite).
+3. **Reduce el número de comidas fuera de casa** en al menos 3 o 4 a la semana.
 
-### Mes 4 — Ingresos extra
+Con estas tres acciones, muchas personas ahorran entre 60€ y 120€ al mes solo en alimentación. Lee nuestra guía de <a href="/articulos/como-ahorrar-supermercado">cómo ahorrar en el supermercado</a> para más estrategias.
 
-**Objetivo: 2.200€ acumulados**
+Todo ese ahorro extra va al fondo de emergencia.
 
-- Busca una fuente de ingresos puntual este mes: clases particulares, trabajo de fin de semana, venta de servicios online
-- Incluso 100-200€ extra acelera significativamente el proceso
-- Revisa si tienes derecho a alguna ayuda o deducción fiscal que no estés aprovechando
+### Objetivo del mes 3
+Llevar el fondo a entre el 40% y el 60% del objetivo total.
 
-### Mes 5 — El sprint final
+## Mes 4: Los ingresos extra
 
-**Objetivo: 2.700€ acumulados**
+En los primeros meses reduces gastos. En este mes buscas más ingresos.
 
-- Ya estás en el tramo final. El destino es visible.
-- Si puedes, aumenta temporalmente la aportación mensual este mes
-- Cualquier ingreso extra (devolución de Hacienda, paga extra, regalo) va íntegramente al fondo
+### Ideas para generar ingresos extra en poco tiempo
+- **Vende cosas que no usas**: Wallapop, Vinted, eBay. Ropa que no te pones, libros leídos, electrónica obsoleta, muebles que sobran.
+- **Ofrece un servicio**: Clases particulares, pasear perros, hacer recados, trabajos de diseño o redacción, limpieza de hogares...
+- **Horas extra en el trabajo**: Si tu empresa las ofrece y puedes hacerlas, este es el momento.
+- **Vende tiempo libre de forma inteligente**: Plataformas de economía colaborativa para trabajo puntual.
 
-### Mes 6 — Meta conseguida
+El objetivo no es mantener estos ingresos extra para siempre. Solo para acelerar el proceso de construcción del fondo.
 
-**Objetivo: 3.180€ ✅**
+### Objetivo del mes 4
+Hacer una aportación extra significativa (100€-500€) al fondo con ingresos extraordinarios.
 
-Tienes 3 meses de gastos esenciales completamente cubiertos. Esto significa:
-- Si pierdes el trabajo, tienes tiempo para buscar uno sin entrar en pánico
-- Si surge una emergencia médica o una avería, la cubres sin endeudarte
-- Puedes empezar a invertir el resto de tu ahorro mensual con tranquilidad
+## Mes 5: Consolidación y revisión
 
-## Dónde guardar el dinero durante el proceso
+### Lo que haces este mes
+1. **Revisa el progreso**: ¿Cuánto llevas acumulado? ¿Cuánto te falta?
+2. **Ajusta la estrategia** si estás por detrás del plan.
+3. **Mantén las rutinas** establecidas en los meses anteriores: transferencia automática, planificación de menú, auditoría de suscripciones.
+4. **Busca una cuenta de ahorro más rentable** si aún no lo has hecho. Con 1.000-2.000€ ya acumulados, empieza a tener sentido buscar mayor rentabilidad.
 
-No lo dejes en la cuenta corriente (te lo gastarás). Las mejores opciones:
+### Objetivo del mes 5
+Estar por encima del 80% del objetivo. Si llegas al 100%, ¡misión cumplida antes de tiempo!
 
-- **Trade Republic:** cuenta remunerada al 4% TAE, sin mínimos, dinero disponible en 1-2 días
-- **Revolut Savings:** hasta 3,5% según plan, acceso inmediato
-- **MyInvestor:** cuenta ahorro remunerada, sin comisiones
+## Mes 6: La recta final
 
-## ¿Y después del fondo de emergencia?
+### Lo que haces este mes
+1. **Aportación final** para llegar al 100% del objetivo.
+2. **Define la regla de uso del fondo**: ¿Qué cuenta como emergencia real para ti? Escríbelo explícitamente para no caer en la tentación de usarlo para no-emergencias.
+3. **Planifica el siguiente paso financiero**: Una vez completo el fondo, ¿qué sigue? ¿Deudas? ¿Inversión? Lee nuestra guía de <a href="/articulos/como-invertir-desde-cero-con-100-euros">cómo empezar a invertir</a>.
 
-Una vez que lo tengas, no pares de ahorrar. Redirige ese ahorro mensual hacia:
+### Objetivo del mes 6
+Fondo de emergencia al 100%. El hábito de ahorro automático, establecido para siempre.
 
-1. Pagar deudas con intereses altos (tarjetas, préstamos personales)
-2. Aumentar el fondo a 6 meses si tu situación lo requiere
-3. Empezar a invertir en fondos indexados
+## Calendario resumen del plan
 
-El fondo de emergencia no es el destino. Es la base que te permite construir todo lo demás.
+| Mes | Acción principal | Objetivo |
+|-----|-----------------|---------|
+| 1 | Cuenta separada + transferencia automática | 100-300€ |
+| 2 | Análisis de gastos + recortes | 300-600€ |
+| 3 | Optimización alimentación | 600-1.200€ |
+| 4 | Ingresos extra | 1.200-1.800€ |
+| 5 | Consolidación + rentabilidad | 1.800-2.400€ |
+| 6 | Recta final | Objetivo completo |
+
+*Basado en un objetivo de 2.700€ y capacidad de ahorro de 200-400€/mes.*
+
+## Qué hacer si el progreso es más lento de lo esperado
+
+Puede que tus ingresos sean bajos o tus gastos fijos sean muy altos. No pasa nada: ajusta el plazo. Un fondo de emergencia construido en 12 meses es mucho mejor que uno que nunca se construye.
+
+Si tienes sueldo mínimo o ingresos muy ajustados, lee nuestra guía de <a href="/articulos/como-ahorrar-dinero-con-sueldo-minimo">cómo ahorrar con sueldo mínimo</a>. Las estrategias se pueden adaptar a cualquier nivel de ingresos.
+
+## Conclusión
+
+Construir el fondo de emergencia no requiere un plan complejo. Requiere consistencia: mes a mes, aportación tras aportación. Seis meses después de empezar, tendrás una red de seguridad que cambiará completamente tu relación con el dinero y con el riesgo.
+
+Empieza hoy, aunque sea con 50€.

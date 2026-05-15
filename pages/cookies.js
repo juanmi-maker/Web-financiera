@@ -243,8 +243,8 @@ export default function CookiesPage() {
             </h2>
             <p>
               Para cualquier consulta relacionada con el uso de cookies en el Sitio, puede ponerse en contacto con el titular a través de la dirección de correo electrónico{' '}
-              <a href="mailto:dinerojoven.legal@gmail.com" className="text-forest-mid font-semibold underline underline-offset-2">
-                dinerojoven.legal@gmail.com
+              <a href="mailto:dinerojovenblog@gmail.com" className="text-forest-mid font-semibold underline underline-offset-2">
+                dinerojovenblog@gmail.com
               </a>
               {' '}o a través de la{' '}
               <Link href="/contacto" className="text-forest-mid underline underline-offset-2">

@@ -7,8 +7,6 @@ export default function Footer() {
   return (
     <footer className="bg-forest-dark text-white/75 pt-14 pb-0 mt-20" role="contentinfo">
       <div className="max-w-site mx-auto px-5">
-
-        {/* Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 pb-12">
 
           {/* Brand */}
@@ -66,9 +64,9 @@ export default function Footer() {
             <h3 className="font-display text-white font-bold text-sm mb-4">Legal</h3>
             <ul className="space-y-2.5 list-none">
               {[
-                ['Privacidad',       '/privacidad'],
+                ['Privacidad',          '/privacidad'],
                 ['Política de cookies', '/cookies'],
-                ['Aviso legal',      '/aviso-legal'],
+                ['Aviso legal',         '/aviso-legal'],
               ].map(([label, href]) => (
                 <li key={href}>
                   <Link href={href} className="text-sm text-white/55 hover:text-emerald-300 transition-colors no-underline">

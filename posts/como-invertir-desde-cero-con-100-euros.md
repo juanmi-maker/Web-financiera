@@ -4,107 +4,119 @@ slug: "como-invertir-desde-cero-con-100-euros"
 excerpt: "No necesitas ser rico para invertir. Con 100€ puedes empezar hoy mismo. Te explicamos exactamente qué hacer, paso a paso, sin tecnicismos."
 date: "2024-01-22"
 category: "inversion"
-tags: ["inversión", "fondos indexados", "ETF", "bolsa", "principiantes"]
-emoji: "📈"
-featured: false
+tags: ["inversión", "principiantes", "ETF", "fondos indexados", "100 euros"]
+emoji: "🚀"
 readingTime: 9
 ---
 
-La inversión tiene fama de ser cosa de ricos. Nada más lejos de la realidad. Con 100€ y 15 minutos puedes empezar a invertir en los mercados financieros globales.
+Uno de los mayores mitos financieros que existen es que necesitas tener mucho dinero para empezar a invertir. No es verdad. Con 100€ puedes dar tu primer paso en los mercados financieros hoy mismo, y ese primer paso importa más de lo que crees gracias al <a href="/articulos/interes-compuesto-como-funciona">interés compuesto</a>.
 
-## ¿Por qué invertir si puedo ahorrar?
+Esta guía está diseñada para alguien que nunca ha invertido antes. Sin jerga, sin tecnicismos innecesarios.
 
-El ahorro tiene un problema: la inflación. Si guardas 1.000€ en cuenta corriente, en 10 años esos 1.000€ compran menos cosas porque los precios han subido. Invertir es la manera de que tu dinero mantenga —o aumente— su valor.
+## Antes de invertir: los requisitos previos
 
-## La mejor opción para principiantes: fondos indexados
+Antes de poner un solo euro en inversión, necesitas cumplir dos condiciones:
 
-Los fondos indexados (también llamados ETFs o fondos índice) son cestas de muchas acciones que siguen el comportamiento de un índice bursátil, como el S&P 500 o el MSCI World.
+### 1. Tener un fondo de emergencia
+No inviertas dinero que puedas necesitar pronto. Si no tienes un <a href="/articulos/fondo-de-emergencia-que-es-cuanto-necesitas">fondo de emergencia</a> de al menos 3 meses de gastos, empieza por ahí.
 
-**Ventajas:**
-- Diversificación automática: inviertes en cientos de empresas a la vez
-- Comisiones bajísimas: 0,07-0,20% al año vs 2% de fondos activos
-- Historial probado: el S&P 500 lleva una media del 10% anual en 90 años
-- No necesitas saber de bolsa
+### 2. No tener deudas de alto interés
+Si tienes deudas con tasas por encima del 8-10%, lo más rentable es liquidarlas antes de invertir. Una deuda al 20% es como una inversión al -20%. Lee cómo hacerlo con el <a href="/articulos/metodo-bola-de-nieve-salir-de-deudas">método bola de nieve</a>.
 
-## El plan paso a paso para invertir tus primeros 100€
+## ¿En qué invertir 100€?
 
-### Paso 1: Abre cuenta en MyInvestor
+Hay varias opciones, pero para un principiante con 100€, la recomendación es clara:
 
-- Ve a myinvestor.es
-- Necesitas DNI, número de cuenta bancaria y un selfie
-- Tarda unos 15 minutos
+### ETFs de fondos indexados (la mejor opción para empezar)
 
-### Paso 2: Transfiere los 100€
+Un ETF (Exchange-Traded Fund) es un fondo que replica el comportamiento de un índice de mercado, como el S&P 500 (las 500 mayores empresas de EEUU) o el MSCI World (más de 1.500 empresas de todo el mundo).
 
-Haz una transferencia desde tu banco habitual. Tarda 1-2 días laborables.
+¿Por qué son ideales para empezar?
 
-### Paso 3: Elige tu fondo
+- **Diversificación automática**: Con un solo ETF, tu dinero está repartido entre cientos o miles de empresas.
+- **Comisiones bajísimas**: Los ETFs indexados cobran entre 0,07% y 0,30% anual, frente al 1-2% de los fondos de gestión activa.
+- **Accesibles desde poco dinero**: Algunos ETFs se pueden comprar desde 1€.
+- **Historial demostrado**: El S&P 500 ha rentado de media un 7-10% anual ajustado a inflación en los últimos 100 años.
 
-**Vanguard Global Stock Index Fund** (ISIN: IE00B03HD191)
-- Invierte en más de 7.500 empresas de todo el mundo
-- Comisión anual: 0,18%
-- Rentabilidad histórica: ~8-10% anual a largo plazo
+Para una explicación más detallada, consulta nuestra guía completa de <a href="/articulos/que-es-un-etf-como-invertir">qué es un ETF y cómo invertir</a>.
 
-### Paso 4: Activa aportaciones periódicas
+## Dónde comprar: los mejores brókers para principiantes en España
 
-El secreto no es cuánto inviertes, sino la constancia. Programa 50-100€/mes mediante Dollar Cost Averaging (DCA): inviertes siempre la misma cantidad, independientemente del mercado.
+| Bróker | Mínimo para empezar | Comisión por operación | Ideal para |
+|--------|--------------------|-----------------------|------------|
+| Trade Republic | 1€ (fracciones) | 1€ fija | Principiantes totales |
+| MyInvestor | 150€ en fondos | 0€ en fondos | Fondos indexados |
+| Indexa Capital | ~1.000€ | 0,15-0,47%/año | Gestión automatizada |
+| Degiro | Variable | 0€ ETFs seleccionados | Más experiencia |
 
-## ¿Cuánto dinero puedes ganar?
+Para 100€, **Trade Republic** es probablemente la opción más sencilla: puedes comprar fracciones de ETFs desde 1€ y las comisiones son bajas y transparentes.
 
-Con una rentabilidad histórica del 8% anual:
+## Plan de acción paso a paso
 
-<div class="table-wrap">
-  <table>
-    <thead>
-      <tr>
-        <th>Inversión mensual</th>
-        <th>En 10 años</th>
-        <th>En 20 años</th>
-        <th>En 30 años</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="td-label">50€/mes</td>
-        <td>~8.700€</td>
-        <td>~27.000€</td>
-        <td class="td-highlight">~64.000€</td>
-      </tr>
-      <tr>
-        <td class="td-label">100€/mes</td>
-        <td>~17.400€</td>
-        <td>~54.000€</td>
-        <td class="td-highlight">~128.000€</td>
-      </tr>
-      <tr>
-        <td class="td-label">200€/mes</td>
-        <td>~34.800€</td>
-        <td>~108.000€</td>
-        <td class="td-highlight">~256.000€</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+### Paso 1: Abre la cuenta (15 minutos)
+Regístrate en Trade Republic (o el bróker que elijas). Necesitarás DNI o pasaporte y número de cuenta bancaria. El proceso es 100% online.
 
-**Capital aportado en 30 años (100€/mes) = 36.000€. Total con interés compuesto = ~128.000€.** La diferencia es el poder del interés compuesto.
+### Paso 2: Transfiere tus 100€
+Una vez verificada la cuenta, transfiere los 100€. Suele tardar 1-2 días laborables.
 
-## Errores que debes evitar
+### Paso 3: Elige tu ETF
 
-### No saques el dinero cuando baja la bolsa
-La bolsa siempre ha subido a largo plazo. El error más costoso es vender cuando baja por miedo.
+Para empezar con 100€, una opción sencilla y sólida es:
 
-### No inviertas dinero que necesitarás pronto
-Solo invierte dinero que no necesites en los próximos 5-10 años.
+- **Vanguard FTSE All-World UCITS ETF (VWCE)**: Inversión en más de 3.700 empresas de todo el mundo. Comisión anual del 0,22%.
+- **iShares Core MSCI World UCITS ETF (IWDA)**: Más de 1.500 empresas de países desarrollados. Comisión anual del 0,20%.
 
-### No mires la cartera cada día
-El inversor que mira más frecuentemente obtiene peores resultados. Revísala una vez al mes como máximo.
+Ambos son ETFs de acumulación, lo que significa que los dividendos se reinvierten automáticamente (aprovechas mejor el <a href="/articulos/interes-compuesto-como-funciona">interés compuesto</a>).
 
-<div class="tip-box">
-  <p>Antes de invertir, asegúrate de tener un fondo de emergencia de 3-6 meses de gastos. Ese colchón es lo que te permite no tocar la inversión cuando lleguen las crisis.</p>
-</div>
+### Paso 4: Compra y olvídate (casi)
+Realiza la compra y configura una aportación mensual recurrente si el bróker lo permite. Aunque sean 50€ al mes. El mercado sube y baja, pero a largo plazo (10+ años) la tendencia histórica es alcista.
 
----
+## Errores que cometen los principiantes
 
-Lo que sí necesitas para empezar es una cosa: empezar. El tiempo es el mayor aliado de cualquier inversor.
+### Error 1: Intentar predecir el mercado
+Nadie sabe cuándo va a subir o bajar el mercado. Ni los gestores de fondos profesionales. La estrategia correcta es invertir regularmente sin intentar adivinar el mejor momento.
 
-*Recuerda: invertir conlleva riesgo de pérdida de capital. Infórmate siempre antes de invertir.*
+### Error 2: Vender cuando el mercado cae
+Cuando el mercado cae un 20% o 30%, el instinto es vender para "evitar más pérdidas". Es el error más caro que puedes cometer. Las caídas son temporales; si vendes, las conviertes en pérdidas permanentes.
+
+### Error 3: Poner todos los huevos en una empresa
+Con 100€ en acciones de una sola empresa, si esa empresa quiebra pierdes todo. Un ETF elimina ese riesgo.
+
+### Error 4: Revisar la cartera todos los días
+Mirar el precio de tu inversión cada día es la forma más rápida de volverse loco y tomar malas decisiones. Revísala una vez al mes o al trimestre, como máximo.
+
+## ¿Cuánto puede crecer tu inversión?
+
+Asumiendo que aportas 100€ al mes y obtienes un 7% anual de media (rentabilidad histórica conservadora de un índice global):
+
+| Años | Total aportado | Valor aproximado |
+|------|---------------|-----------------|
+| 5 años | 6.000€ | 7.200€ |
+| 10 años | 12.000€ | 17.400€ |
+| 20 años | 24.000€ | 52.400€ |
+| 30 años | 36.000€ | 121.000€ |
+
+Esos números son el <a href="/articulos/interes-compuesto-como-funciona">interés compuesto</a> en acción. Y todo empezó con 100€.
+
+## También puedes empezar con 50€
+
+Si 100€ te parece mucho ahora mismo, puedes empezar con menos. Nuestra guía de <a href="/articulos/guia-invertir-50-euros">cómo invertir tus primeros 50 euros</a> te explica exactamente qué hacer.
+
+## Fiscalidad básica que debes conocer
+
+Cuando vendas una inversión con ganancias, pagarás impuestos en la declaración de la renta. En España, las ganancias patrimoniales tributan así:
+
+| Ganancia | Tipo impositivo |
+|----------|----------------|
+| Hasta 6.000€ | 19% |
+| De 6.000€ a 50.000€ | 21% |
+| De 50.000€ a 200.000€ | 23% |
+| Más de 200.000€ | 27% |
+
+Mientras no vendas, no pagas impuestos. Por eso la estrategia de "comprar y mantener" es tan eficiente fiscalmente.
+
+## Conclusión
+
+Invertir 100€ no te hará rico de la noche a la mañana. Pero te enseñará cómo funciona la inversión, construirá un hábito poderoso y sentará las bases para un patrimonio real a largo plazo.
+
+No esperes a tener más dinero, más conocimiento o el "momento perfecto". Empieza ahora con lo que tienes.

@@ -3,100 +3,114 @@ title: "Declaración de la Renta: 8 deducciones que probablemente no estás usan
 slug: "declaracion-renta-deducciones-irpf"
 excerpt: "La mayoría de jóvenes presenta la declaración con el borrador sin revisarlo. Error. Estas 8 deducciones pueden ahorrarte cientos de euros cada año."
 date: "2024-04-01"
-category: "ahorro"
-tags: ["declaración de la renta", "IRPF", "deducciones", "hacienda", "impuestos"]
+category: "basicos"
+tags: ["declaración de la renta", "IRPF", "deducciones", "impuestos", "ahorro fiscal"]
 emoji: "📋"
-readingTime: 7
+readingTime: 9
 ---
 
-Cada abril, millones de españoles aceptan el borrador de Hacienda sin revisarlo. Muchos están dejando dinero sobre la mesa sin saberlo. Estas son las deducciones que más se pasan por alto.
+Cada año, millones de contribuyentes en España presentan el borrador de la renta sin revisarlo. Es un error que puede costar cientos de euros. La Agencia Tributaria calcula tu declaración con los datos que tiene, pero no siempre los tiene todos, y no siempre aplica todas las deducciones a las que tienes derecho.
 
-<div class="tip-box">
-  <p><strong>Importante:</strong> Las deducciones y límites cambian cada año. Verifica siempre los importes actualizados en la web de la Agencia Tributaria o consulta con un gestor. Este artículo es orientativo.</p>
-</div>
+Estas son las 8 deducciones más comunes que los jóvenes se saltan.
 
-## 1. Deducción por alquiler de vivienda habitual
+## Por qué el borrador no siempre es correcto
 
-Si empezaste a alquilar antes del 1 de enero de 2015, puedes deducirte el **10,05% de las cantidades pagadas** con un máximo de base de 9.040€/año.
+El borrador que te envía la AEAT parte de la información fiscal que le han remitido tu empleador, banco, y otras entidades. Pero hay datos que la Agencia no conoce automáticamente:
 
-Si empezaste después de esa fecha, la deducción estatal desapareció, pero **muchas comunidades autónomas tienen su propia deducción**. Revisa las deducciones autonómicas de tu comunidad — algunas son muy generosas para jóvenes.
+- Deducciones autonómicas específicas de tu comunidad
+- Gastos deducibles de actividades económicas si eres autónomo
+- Aportaciones a planes de pensiones de empleo
+- Gastos de alquiler si el contrato es anterior a 2015
+- Situaciones familiares cambiantes (nacimiento de hijos, separación...)
 
-## 2. Deducción por donativos
+Dedica al menos una hora a revisar el borrador antes de confirmarlo. Puede valer mucho dinero.
 
-Si has hecho donativos a ONG, fundaciones o entidades sin ánimo de lucro reconocidas:
+## Deducción 1: Alquiler de vivienda habitual (contratos antes de 2015)
 
-- **Primeros 150€ donados:** deducción del 80%
-- **Resto de donaciones:** deducción del 35%
-- Si llevas 3+ años donando a la misma entidad: deducción del 40%
+Esta deducción estatal ya no existe para contratos firmados a partir del 1 de enero de 2015. Pero si tu contrato de alquiler es anterior a esa fecha, **sigues teniendo derecho a deducirte el 10,05% de las cantidades satisfechas** en el período impositivo por el alquiler de tu vivienda habitual, con una base máxima de 9.040€.
 
-Guarda siempre los justificantes. La entidad receptora suele enviarte un certificado fiscal a principios de año.
+Esto significa hasta 909€ de deducción anual. Comprueba la fecha de tu contrato.
 
-## 3. Deducción por inversión en empresas de nueva creación
+## Deducción 2: Deducción autonómica por alquiler
 
-Si has invertido en startups o empresas de nueva creación (business angels), puedes deducirte el **50% de la inversión** con una base máxima de 100.000€.
+Muchas comunidades autónomas tienen sus propias deducciones por alquiler de vivienda habitual, independientemente de la fecha del contrato. Las condiciones varían, pero suelen exigir:
 
-Condiciones: la empresa debe tener menos de 3 años, ser de tamaño pequeño y no cotizar en bolsa. Requiere certificado de la empresa.
+- Que el alquiler sea de vivienda habitual (no vacacional)
+- Límites de ingresos del contribuyente
+- Que el arrendatario tenga menos de cierta edad (frecuentemente 35 años)
 
-## 4. Planes de pensiones
+Por ejemplo, la Comunitat Valenciana tiene una deducción de hasta el 15% del alquiler con ciertos límites de renta. Consulta las deducciones específicas de tu comunidad en la web de la AEAT o la agencia tributaria autonómica.
 
-Las aportaciones a planes de pensiones individuales reducen tu **base imponible** (no son una deducción directa, pero el efecto es similar o mayor según tu tramo fiscal).
+## Deducción 3: Aportaciones a planes de pensiones
 
-<div class="table-wrap">
-  <table>
-    <thead>
-      <tr><th>Tramo IRPF</th><th>Ahorro fiscal por cada 1.000€ aportados</th></tr>
-    </thead>
-    <tbody>
-      <tr><td class="td-label">19% (hasta 12.450€)</td><td>190€</td></tr>
-      <tr><td class="td-label">24% (12.450€ - 20.200€)</td><td>240€</td></tr>
-      <tr><td class="td-label">30% (20.200€ - 35.200€)</td><td class="td-highlight">300€</td></tr>
-      <tr><td class="td-label">37% (35.200€ - 60.000€)</td><td class="td-highlight">370€</td></tr>
-    </tbody>
-  </table>
-</div>
+Las aportaciones a planes de pensiones individuales reducen directamente la base imponible del IRPF. El límite es el menor entre:
 
-El límite de aportación es el menor entre 1.500€ anuales o el 30% de los rendimientos del trabajo. Ojo: el dinero queda bloqueado hasta la jubilación (salvo casos de desempleo de larga duración, enfermedad grave o dependencia).
+- **1.500€ anuales** (límite desde 2022)
+- El 30% de los rendimientos netos del trabajo y actividades económicas
 
-## 5. Gastos deducibles como trabajador por cuenta ajena
+Si tu empresa te aporta a un plan de pensiones de empleo, el límite conjunto sube a 8.500€ adicionales.
 
-Muchos trabajadores no saben que pueden deducir ciertos gastos:
+¿Merece la pena un plan de pensiones? Lee nuestra guía detallada sobre <a href="/articulos/planes-de-pensiones-espana-merecen-la-pena">planes de pensiones en España</a> para entender cuándo convienen y cuándo no.
 
-- **Cuotas sindicales:** deducibles en su totalidad
-- **Cuotas de colegios profesionales:** deducibles (con límite de 500€/año)
-- **Gastos de defensa jurídica laboral:** hasta 300€/año
+## Deducción 4: Donativos a ONGs y entidades sin ánimo de lucro
 
-## 6. Deducción por maternidad y paternidad
+Si has hecho donativos a ONGs acogidas a la Ley 49/2002, puedes deducirte:
 
-Si tienes hijos menores de 3 años y trabajas:
+- **80%** de los primeros 150€ donados
+- **35%** del resto (40% si llevas 3 años donando al menos la misma cantidad a la misma entidad)
 
-- **Deducción por maternidad:** hasta 1.200€ anuales por hijo menor de 3 años (madres trabajadoras)
-- **Gastos de guardería:** deducción adicional de hasta 1.000€ por los gastos en centros autorizados
+Con 150€ donados, te ahorras 120€ en la declaración. Guarda siempre el certificado de donativo que te emite la ONG.
 
-Puedes pedir el cobro anticipado mensualmente (100€/mes) sin esperar a la declaración.
+## Deducción 5: Gastos de trabajo por cuenta ajena
 
-## 7. Deducción por discapacidad propia o de familiares
+Muchos trabajadores no saben que pueden deducirse ciertos gastos relacionados con su trabajo si no los cubre la empresa:
 
-Si tú o un familiar a tu cargo tiene reconocida una discapacidad:
+- **Cuotas sindicales**: deducibles al 100%
+- **Cuotas de colegios profesionales obligatorios**: hasta 500€/año
+- **Gastos de defensa jurídica frente al empleador**: hasta 300€/año
 
-- Discapacidad del 33-65%: mínimo personal adicional de 3.000€
-- Discapacidad superior al 65%: mínimo adicional de 9.000€
-- Con movilidad reducida (+65% discapacidad): 3.000€ adicionales
+Además, existe una **reducción general por rendimientos del trabajo** que se aplica automáticamente según el nivel de ingresos, pero conviene comprobar que el borrador la está aplicando correctamente.
 
-Muchas personas tienen el grado reconocido y no aplican la deducción por desconocimiento.
+## Deducción 6: Inversión en empresas de nueva creación (business angels)
 
-## 8. Deducción por obras de mejora de eficiencia energética
+Si has invertido en una startup o empresa de nueva creación que cumpla ciertos requisitos, puedes deducirte el **30% de lo invertido** con una base máxima de 60.000€.
 
-Si has hecho obras en tu vivienda para mejorar la eficiencia energética:
+Es una deducción menor en términos de uso (pocos jóvenes invierten en startups), pero muy generosa para los que sí lo hacen. La empresa debe tener menos de 3 años de antigüedad, cumplir determinados requisitos de forma jurídica y no estar en sectores excluidos.
 
-- **Reducción de calefacción/refrigeración en 7% o más:** deducción del 20% (hasta 5.000€ de base)
-- **Reducción del 30% o más en consumo energético:** deducción del 40% (hasta 7.500€ de base)
-- **Edificios con mejora energética significativa:** hasta 60% de deducción
+## Deducción 7: Maternidad y familia numerosa
 
-Necesitas certificado energético antes y después de las obras.
+Si eres madre trabajadora con hijos menores de 3 años o familia numerosa, existen deducciones específicas:
 
-## Cómo asegurarte de no perder ninguna
+- **Deducción por maternidad**: Hasta 1.200€ anuales por hijo menor de 3 años (puede cobrarse de forma anticipada mes a mes).
+- **Deducción por familia numerosa**: 1.200€ generales o 2.400€ para familia numerosa especial.
+- **Deducción por ascendiente con dos hijos sin derecho a anualidades**: 1.200€.
 
-1. **No aceptes el borrador sin revisarlo.** El borrador incluye lo que Hacienda ya sabe de ti, no todo lo que puedes deducir.
-2. **Reúne los justificantes a lo largo del año:** recibos del alquiler, certificados de donativos, facturas de obras.
-3. **Revisa las deducciones autonómicas** de tu comunidad — algunas tienen deducciones específicas para jóvenes, alquiler, estudios universitarios o nacimiento de hijos.
-4. **Considera un gestor** si tu situación es compleja. El coste (80-150€) suele recuperarse con creces en deducciones encontradas.
+Estas deducciones se aplican automáticamente si los datos son correctos, pero conviene verificar que el borrador las incluye.
+
+## Deducción 8: Gastos de autónomos (si tienes actividad económica)
+
+Si eres autónomo o freelance, la declaración de la renta es especialmente importante. Puedes deducir:
+
+- **Cuota de autónomos** pagada durante el año
+- **Suministros del hogar** si trabajas desde casa (hasta el 30% de la parte proporcional al espacio de trabajo)
+- **Material de oficina, software, hardware** necesario para el trabajo
+- **Formación relacionada con la actividad**
+- **Gastos de teléfono y conexión a internet** (parte proporcional)
+
+Para más detalles sobre la gestión fiscal como autónomo, lee nuestra guía de <a href="/articulos/finanzas-freelance-autonomos-guia">finanzas para freelances y autónomos</a>.
+
+## Cómo revisar el borrador paso a paso
+
+1. **Accede a Renta Web** con certificado digital, Cl@ve o datos fiscales.
+2. **Revisa los datos personales**: Estado civil, hijos, discapacidades... Cualquier cambio del año anterior debe actualizarse.
+3. **Verifica los rendimientos del trabajo**: Que coincidan con tu nómina anual acumulada.
+4. **Añade las deducciones que falten**: Las autonómicas no siempre aparecen automáticamente.
+5. **Compara el resultado con y sin deducciones**: La propia aplicación te permite ver el impacto de cada cambio.
+
+## Un error frecuente: no presentar si sale a devolver
+
+Si el resultado de tu declaración es a devolver y los ingresos son bajos (por debajo del límite de obligación de declarar), mucha gente no presenta. Error: si no presentas, Hacienda no te devuelve. Y si te salen a devolver, **siempre compensa presentar**.
+
+## Conclusión
+
+La declaración de la renta no es un trámite pasivo. Es una oportunidad anual para recuperar dinero que legalmente te corresponde. Dedica tiempo a revisarla, aplica todas las deducciones a las que tienes derecho y, si tu situación es compleja, considera usar un gestor o asesor fiscal: el coste suele amortizarse con creces.
