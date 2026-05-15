@@ -1,7 +1,7 @@
 {
   "version": 2,
   "framework": "nextjs",
-  "regions": ["mad1"],
+  "regions": ["fra1"],
   "headers": [
     {
       "source": "/(.*)",
