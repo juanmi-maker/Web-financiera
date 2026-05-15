@@ -2,7 +2,7 @@
 title: "Método bola de nieve: cómo salir de deudas paso a paso"
 slug: "metodo-bola-de-nieve-salir-de-deudas"
 excerpt: "El método más popular para eliminar deudas. Te explicamos exactamente cómo funciona con ejemplos reales y un plan para aplicarlo esta misma semana."
-date: "2024-01-29"
+date: "2026-01-29"
 category: "deudas"
 tags: ["deudas", "método bola de nieve", "finanzas personales", "ahorro"]
 emoji: "⛄"

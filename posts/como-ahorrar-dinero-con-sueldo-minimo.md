@@ -2,14 +2,14 @@
 title: "Cómo ahorrar dinero con sueldo mínimo: 7 métodos que funcionan de verdad"
 slug: "como-ahorrar-dinero-con-sueldo-minimo"
 excerpt: "Ganar poco no significa que no puedes ahorrar. Te explicamos 7 estrategias probadas para guardar dinero cada mes aunque tu sueldo sea ajustado. Sin excusas."
-date: "2024-01-15"
+date: "2026-01-15"
 category: "ahorro"
 tags: ["ahorro", "sueldo mínimo", "presupuesto", "finanzas básicas"]
 emoji: "💰"
 readingTime: 8
 ---
 
-¿Tienes un sueldo que apenas llega a fin de mes? No estás solo. En España, el Salario Mínimo Interprofesional (SMI) en 2024 es de 1.134€ brutos en 14 pagas, lo que supone unos 900-950€ netos al mes. Con ese dinero, vivir en una ciudad grande y ahorrar parece imposible. No lo es.
+¿Tienes un sueldo que apenas llega a fin de mes? No estás solo. En España, el Salario Mínimo Interprofesional (SMI) en 2026 es de 1.134€ brutos en 14 pagas, lo que supone unos 900-950€ netos al mes. Con ese dinero, vivir en una ciudad grande y ahorrar parece imposible. No lo es.
 
 La clave no está en ganar más (aunque ayuda), sino en cambiar la relación que tienes con el dinero que ya tienes.
 

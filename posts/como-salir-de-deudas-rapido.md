@@ -2,7 +2,7 @@
 title: "Cómo salir de deudas rápido: el plan completo en 6 pasos"
 slug: "como-salir-de-deudas-rapido"
 excerpt: "Estar endeudado es agotador. Este plan en 6 pasos te da un camino claro para liquidar tus deudas lo antes posible, con estrategias que van más allá del típico consejo de gastar menos."
-date: "2024-04-29"
+date: "2026-04-29"
 category: "deudas"
 tags: ["deudas", "finanzas personales", "método avalancha", "bola de nieve"]
 emoji: "🏃"

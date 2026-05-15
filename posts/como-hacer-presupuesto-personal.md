@@ -2,7 +2,7 @@
 title: "Cómo hacer un presupuesto personal que de verdad funcione"
 slug: "como-hacer-presupuesto-personal"
 excerpt: "El presupuesto personal es la herramienta más poderosa de las finanzas personales. Aprende a crear uno paso a paso con los métodos más efectivos."
-date: "2024-02-12"
+date: "2026-02-12"
 category: "basicos"
 tags: ["presupuesto", "ahorro", "finanzas básicas", "planificación"]
 emoji: "📊"

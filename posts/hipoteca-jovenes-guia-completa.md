@@ -2,7 +2,7 @@
 title: "Hipoteca para jóvenes: todo lo que nadie te explica antes de firmar"
 slug: "hipoteca-jovenes-guia-completa"
 excerpt: "Firmar una hipoteca es el compromiso financiero más grande de tu vida. Esta guía te explica cómo funciona realmente, qué negociar, qué evitar y por qué el banco no siempre es tu aliado."
-date: "2024-05-27"
+date: "2026-05-27"
 category: "vivienda"
 tags: ["hipoteca", "vivienda", "banco", "jóvenes", "comprar piso"]
 emoji: "🏠"
@@ -38,7 +38,7 @@ Si aún estás construyendo ese ahorro, la guía de <a href="/articulos/independ
 | Variable | La cuota varía con el Euribor. Más riesgo | Cuando los tipos están altos y se espera que bajen |
 | Mixta | Fija los primeros años (5-15), luego variable | Término medio; útil si planeas amortizar en los primeros años |
 
-En 2024-2025, con el Euribor habiendo bajado desde sus máximos de 2023, la elección entre fija y variable depende de tu tolerancia al riesgo y del plazo de la hipoteca.
+En 2025-2026, con el Euribor habiendo bajado desde sus máximos de 2023, la elección entre fija y variable depende de tu tolerancia al riesgo y del plazo de la hipoteca.
 
 **La regla general**: Si no podrías asumir una subida de cuota de 200-300€/mes sin problemas serios, elige fija.
 
@@ -101,7 +101,7 @@ Para un análisis profundo de este debate, lee nuestra guía de <a href="/articu
 
 ## El aval ICO para jóvenes
 
-Desde 2024, el Gobierno de España avala hasta el 20% adicional del precio de la vivienda para jóvenes de hasta 35 años. Esto permite financiar hasta el 100% del valor de la vivienda si el banco acepta el aval del ICO.
+Desde 2026, el Gobierno de España avala hasta el 20% adicional del precio de la vivienda para jóvenes de hasta 35 años. Esto permite financiar hasta el 100% del valor de la vivienda si el banco acepta el aval del ICO.
 
 ¿Significa que no necesitas ahorros? No: sigues necesitando los gastos de compraventa (10-12%). Y la cuota mensual con una hipoteca del 100% será mayor. Infórmate en tu banco si aplica en tu caso.
 

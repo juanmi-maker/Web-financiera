@@ -2,7 +2,7 @@
 title: "Declaración de la Renta: 8 deducciones que probablemente no estás usando"
 slug: "declaracion-renta-deducciones-irpf"
 excerpt: "La mayoría de jóvenes presenta la declaración con el borrador sin revisarlo. Error. Estas 8 deducciones pueden ahorrarte cientos de euros cada año."
-date: "2024-04-01"
+date: "2026-04-01"
 category: "basicos"
 tags: ["declaración de la renta", "IRPF", "deducciones", "impuestos", "ahorro fiscal"]
 emoji: "📋"

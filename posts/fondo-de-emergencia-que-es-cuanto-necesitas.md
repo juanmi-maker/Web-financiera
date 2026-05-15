@@ -2,7 +2,7 @@
 title: "Fondo de emergencia: qué es, cuánto necesitas y cómo crearlo"
 slug: "fondo-de-emergencia-que-es-cuanto-necesitas"
 excerpt: "El primer paso de cualquier plan financiero sano. Descubre exactamente cuánto necesitas, dónde guardarlo y cómo construirlo desde cero."
-date: "2024-02-05"
+date: "2026-02-05"
 category: "basicos"
 tags: ["fondo de emergencia", "ahorro", "seguridad financiera", "finanzas básicas"]
 emoji: "🛡️"
@@ -43,7 +43,7 @@ Esta es una pregunta que mucha gente se hace. La respuesta tiene que equilibrar 
 ### Opciones recomendadas
 
 **Cuenta de ahorro remunerada (mejor opción para la mayoría)**
-En 2024-2025, muchos bancos ofrecen cuentas de ahorro con rentabilidades del 2% al 3,5% TAE. Puedes tener el dinero accesible en 24-72 horas y obtener algo de rentabilidad. Algunos ejemplos son MyInvestor, Trade Republic (cuenta de efectivo) o Openbank.
+En 2025-2026, muchos bancos ofrecen cuentas de ahorro con rentabilidades del 2% al 3,5% TAE. Puedes tener el dinero accesible en 24-72 horas y obtener algo de rentabilidad. Algunos ejemplos son MyInvestor, Trade Republic (cuenta de efectivo) o Openbank.
 
 **Depósitos a plazo fijo de corto plazo**
 Si tienes el fondo completo y no necesitas tocar ese dinero con frecuencia, un depósito a 3 o 6 meses puede dar algo más de rentabilidad. El riesgo es que no puedes retirarlo antes sin penalización.

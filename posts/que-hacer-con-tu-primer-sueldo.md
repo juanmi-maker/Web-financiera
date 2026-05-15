@@ -2,7 +2,7 @@
 title: "Qué hacer con tu primer sueldo: la guía que nadie te da"
 slug: "que-hacer-con-tu-primer-sueldo"
 excerpt: "El primer sueldo es un momento clave. Lo que hagas con él puede marcar la diferencia entre construir riqueza o empezar una espiral de gastos de la que cuesta salir. Aquí el plan concreto."
-date: "2024-01-08"
+date: "2026-01-08"
 category: "basicos"
 tags: ["primer sueldo", "jóvenes", "ahorro", "finanzas básicas", "dinero"]
 emoji: "🎉"

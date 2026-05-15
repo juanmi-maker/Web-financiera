@@ -2,7 +2,7 @@
 title: "¿Qué es un ETF y cómo invertir en uno? Guía completa para principiantes"
 slug: "que-es-un-etf-como-invertir"
 excerpt: "Los ETFs son la forma más sencilla y barata de invertir en bolsa. Te explicamos exactamente qué son, cómo funcionan, cuáles elegir y cómo comprar tu primero sin cometer errores."
-date: "2024-04-22"
+date: "2026-04-22"
 category: "inversion"
 tags: ["ETF", "inversión", "fondos indexados", "bolsa", "principiantes"]
 emoji: "📊"

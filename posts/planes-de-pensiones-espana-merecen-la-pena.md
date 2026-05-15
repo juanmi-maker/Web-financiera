@@ -1,8 +1,8 @@
 ---
-title: "Planes de pensiones en España: ¿merecen la pena en 2024?"
+title: "Planes de pensiones en España: ¿merecen la pena en 2026?"
 slug: "planes-de-pensiones-espana-merecen-la-pena"
 excerpt: "La respuesta no es simple. Los planes de pensiones tienen ventajas fiscales reales, pero también trampas importantes. Te explicamos cuándo convienen y cuándo no."
-date: "2024-04-15"
+date: "2026-04-15"
 category: "inversion"
 tags: ["plan de pensiones", "jubilación", "IRPF", "inversión", "ahorro"]
 emoji: "👴"

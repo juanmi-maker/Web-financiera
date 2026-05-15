@@ -2,7 +2,7 @@
 title: "Cómo ahorrar en el supermercado sin comer peor: 12 trucos que funcionan"
 slug: "como-ahorrar-supermercado"
 excerpt: "La cesta de la compra es el gasto variable más fácil de optimizar. Con estos 12 hábitos puedes reducir tu factura del supermercado un 20-30% sin sacrificar calidad ni variedad."
-date: "2024-04-15"
+date: "2026-04-15"
 category: "ahorro"
 tags: ["ahorro", "supermercado", "alimentación", "presupuesto"]
 emoji: "🛒"

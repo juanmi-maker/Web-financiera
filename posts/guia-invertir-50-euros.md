@@ -2,7 +2,7 @@
 title: "Guía para invertir tus primeros 50 euros (sin experiencia previa)"
 slug: "guia-invertir-50-euros"
 excerpt: "Con 50€ puedes dar tu primer paso en los mercados financieros hoy mismo. Sin conocimientos previos, sin jerga bancaria y sin cometer los errores típicos del principiante."
-date: "2024-03-11"
+date: "2026-03-11"
 category: "inversion"
 tags: ["inversión", "principiantes", "50 euros", "ETF", "Trade Republic"]
 emoji: "🌱"

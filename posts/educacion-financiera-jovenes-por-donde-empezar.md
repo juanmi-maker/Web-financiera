@@ -2,7 +2,7 @@
 title: "Educación financiera para jóvenes: por dónde empezar si no sabes nada"
 slug: "educacion-financiera-jovenes-por-donde-empezar"
 excerpt: "El sistema educativo no te enseña nada de dinero. Esta guía es el punto de partida para entender las finanzas personales desde cero, con los conceptos clave y los recursos más recomendados."
-date: "2024-07-29"
+date: "2026-07-29"
 category: "basicos"
 tags: ["educación financiera", "finanzas personales", "principiantes", "jóvenes", "dinero"]
 emoji: "📚"

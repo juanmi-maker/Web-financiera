@@ -2,7 +2,7 @@
 title: "Cómo gestionar el dinero en pareja sin que se convierta en un problema"
 slug: "gestionar-dinero-en-pareja"
 excerpt: "El dinero es una de las principales causas de conflicto en las relaciones. Te explicamos los modelos que funcionan, cómo hablar de finanzas sin pelea y qué errores evitar desde el principio."
-date: "2024-05-13"
+date: "2026-05-13"
 category: "basicos"
 tags: ["pareja", "dinero en pareja", "finanzas personales", "presupuesto compartido"]
 emoji: "👫"

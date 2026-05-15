@@ -2,7 +2,7 @@
 title: "Cómo organizar el dinero cuando empiezas a vivir en pareja"
 slug: "dinero-en-pareja-convivencia"
 excerpt: "Mudarse juntos es uno de los pasos con mayor impacto financiero de una relación. Cómo repartir los gastos, qué cuentas abrir y qué errores evitar desde el principio."
-date: "2024-07-01"
+date: "2026-07-01"
 category: "basicos"
 tags: ["pareja", "convivencia", "dinero", "gastos compartidos", "cuenta conjunta"]
 emoji: "🏡"
@@ -109,7 +109,7 @@ Si tenéis objetivos financieros compartidos (comprar un piso, un viaje grande, 
 
 1. Definid el objetivo y el plazo
 2. Calculad la aportación mensual necesaria
-3. Abrid una cuenta de ahorro conjunta separada (idealmente remunerada, ver <a href="/articulos/cuentas-remuneradas-mejores-2024">comparativa de cuentas remuneradas</a>)
+3. Abrid una cuenta de ahorro conjunta separada (idealmente remunerada, ver <a href="/articulos/cuentas-remuneradas-mejores-2026">comparativa de cuentas remuneradas</a>)
 4. Automatizad la aportación mensual
 
 Para el ahorro de la entrada de un piso, nuestra guía de <a href="/articulos/como-ahorrar-para-entrada-piso">cómo ahorrar para la entrada</a> tiene un plan detallado.

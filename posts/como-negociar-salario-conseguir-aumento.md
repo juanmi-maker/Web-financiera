@@ -2,7 +2,7 @@
 title: "Cómo negociar tu salario y conseguir un aumento: la guía práctica"
 slug: "como-negociar-salario-conseguir-aumento"
 excerpt: "La habilidad de negociar tu salario es el mayor aumento de sueldo que puedes conseguir. Una negociación exitosa puede valer 3.000-10.000€ más al año. Aquí cómo hacerlo paso a paso."
-date: "2024-06-10"
+date: "2026-03-10"
 category: "basicos"
 tags: ["salario", "negociación", "trabajo", "aumento", "sueldo"]
 emoji: "📈"

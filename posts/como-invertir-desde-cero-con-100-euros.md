@@ -2,7 +2,7 @@
 title: "Cómo invertir desde cero con 100 euros: la guía más completa"
 slug: "como-invertir-desde-cero-con-100-euros"
 excerpt: "No necesitas ser rico para invertir. Con 100€ puedes empezar hoy mismo. Te explicamos exactamente qué hacer, paso a paso, sin tecnicismos."
-date: "2024-01-22"
+date: "2026-01-22"
 category: "inversion"
 tags: ["inversión", "principiantes", "ETF", "fondos indexados", "100 euros"]
 emoji: "🚀"

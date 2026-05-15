@@ -2,7 +2,7 @@
 title: "Finanzas para freelances y autónomos: la guía que nadie te da al darte de alta"
 slug: "finanzas-freelance-autonomos-guia"
 excerpt: "Ser autónomo tiene ventajas increíbles y trampas financieras enormes. Impuestos, cuotas, facturas, ahorro... todo es diferente cuando trabajas por cuenta propia. Esta guía cubre lo esencial."
-date: "2024-06-03"
+date: "2026-03-03"
 category: "basicos"
 tags: ["autónomos", "freelance", "impuestos", "IRPF", "IVA", "finanzas personales"]
 emoji: "💼"

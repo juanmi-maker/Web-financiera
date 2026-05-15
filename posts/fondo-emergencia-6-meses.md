@@ -2,7 +2,7 @@
 title: "Cómo crear tu fondo de emergencia en 6 meses (plan paso a paso)"
 slug: "fondo-emergencia-6-meses"
 excerpt: "Un plan concreto para tener 3 meses de gastos guardados antes de que acabe el año. Con ejemplos reales y estrategias para acelerar el proceso."
-date: "2024-03-04"
+date: "2026-03-04"
 category: "ahorro"
 tags: ["fondo de emergencia", "ahorro", "plan de ahorro", "finanzas básicas"]
 emoji: "🛡️"

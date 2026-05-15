@@ -2,14 +2,14 @@
 title: "Cómo ahorrar para la entrada de un piso: el plan paso a paso"
 slug: "como-ahorrar-para-entrada-piso"
 excerpt: "Ahorrar 40.000-60.000€ para la entrada de un piso parece imposible. No lo es. Con el plan correcto y el tiempo adecuado, es alcanzable. Te explicamos exactamente cómo."
-date: "2024-06-24"
+date: "2026-04-24"
 category: "vivienda"
 tags: ["entrada piso", "ahorro", "vivienda", "hipoteca", "objetivos financieros"]
 emoji: "🔑"
 readingTime: 9
 ---
 
-Comprar un piso en España en 2024 es el objetivo financiero más complicado para los jóvenes. No es solo el precio de la vivienda: es que necesitas tener ahorrado entre el 30% y el 35% del precio antes de poder acceder a una hipoteca. Para un piso de 200.000€, hablamos de entre 56.000€ y 68.000€.
+Comprar un piso en España en 2026 es el objetivo financiero más complicado para los jóvenes. No es solo el precio de la vivienda: es que necesitas tener ahorrado entre el 30% y el 35% del precio antes de poder acceder a una hipoteca. Para un piso de 200.000€, hablamos de entre 56.000€ y 68.000€.
 
 Esa cifra puede parecer inalcanzable. No lo es, si tienes un plan y el tiempo suficiente.
 
@@ -64,7 +64,7 @@ Estrategias para aumentar la capacidad de ahorro:
 
 El dinero de la entrada no debe mezclarse con el fondo de emergencia ni con el dinero del día a día. Abre una cuenta específica para este objetivo, idealmente remunerada.
 
-Las mejores opciones actuales en España ofrecen entre 2,5% y 3,25% TAE sin comisiones. Consulta nuestra <a href="/articulos/cuentas-remuneradas-mejores-2024">comparativa de cuentas remuneradas</a>.
+Las mejores opciones actuales en España ofrecen entre 2,5% y 3,25% TAE sin comisiones. Consulta nuestra <a href="/articulos/cuentas-remuneradas-mejores-2026">comparativa de cuentas remuneradas</a>.
 
 ### Etapa 3: Automatiza el ahorro sin excepción
 
@@ -96,7 +96,7 @@ Mientras ahorras, edúcate sobre el mercado inmobiliario:
 
 ## El aval ICO para jóvenes: ¿cambia el cálculo?
 
-Desde 2024, el Estado avala hasta el 20% adicional del precio de la vivienda para jóvenes menores de 35 años. Esto permite en teoría financiar hasta el 100% del precio con hipoteca.
+Desde 2026, el Estado avala hasta el 20% adicional del precio de la vivienda para jóvenes menores de 35 años. Esto permite en teoría financiar hasta el 100% del precio con hipoteca.
 
 ¿Significa que no necesitas ahorrar la entrada? No exactamente:
 - Sigues necesitando los gastos de compraventa (10-15% del precio)

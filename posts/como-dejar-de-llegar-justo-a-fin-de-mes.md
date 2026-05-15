@@ -2,7 +2,7 @@
 title: "Cómo dejar de llegar justo a fin de mes: el plan definitivo"
 slug: "como-dejar-de-llegar-justo-a-fin-de-mes"
 excerpt: "Si cada mes acabas con la cuenta casi a cero, no es solo un problema de ingresos. Es un problema de sistema. Aquí el plan para cambiarlo de forma permanente."
-date: "2024-03-18"
+date: "2026-03-18"
 category: "ahorro"
 tags: ["fin de mes", "ahorro", "presupuesto", "gastos", "dinero"]
 emoji: "📅"
@@ -55,7 +55,7 @@ Suscripciones típicas que se acumulan sin notarse:
 Cancela hoy todo lo que no uses activamente. El ahorro puede ser inmediato.
 
 ### Comisiones bancarias
-¿Tu banco te cobra comisiones de mantenimiento, por transferencias o por sacar dinero en cajeros? En 2024 no tiene sentido pagar comisiones bancarias si tienes domiciliada la nómina. Considera cambiar a un banco sin comisiones (BBVA, ING, Openbank, N26, Revolut...).
+¿Tu banco te cobra comisiones de mantenimiento, por transferencias o por sacar dinero en cajeros? En 2026 no tiene sentido pagar comisiones bancarias si tienes domiciliada la nómina. Considera cambiar a un banco sin comisiones (BBVA, ING, Openbank, N26, Revolut...).
 
 ## Fase 3: El sistema de tres cuentas (semana 3)
 

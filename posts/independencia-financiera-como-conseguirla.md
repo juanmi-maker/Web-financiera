@@ -2,7 +2,7 @@
 title: "Independencia financiera: qué es, cómo calcularla y por dónde empezar"
 slug: "independencia-financiera-como-conseguirla"
 excerpt: "La independencia financiera no es solo para ricos ni para los que quieren jubilarse a los 40. Es tener opciones. Te explicamos cómo calcular tu número y los primeros pasos reales."
-date: "2024-04-08"
+date: "2026-04-08"
 category: "inversion"
 tags: ["independencia financiera", "FIRE", "inversión", "ahorro", "libertad financiera"]
 emoji: "🎯"

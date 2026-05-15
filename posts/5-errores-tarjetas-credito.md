@@ -2,7 +2,7 @@
 title: "5 errores comunes al usar tarjetas de crédito (y cómo evitarlos)"
 slug: "5-errores-tarjetas-credito"
 excerpt: "La tarjeta de crédito no es dinero gratis. Aprende cuáles son las trampas más frecuentes y cómo evitar pagar el doble de lo que compraste."
-date: "2024-02-26"
+date: "2026-02-26"
 category: "deudas"
 tags: ["tarjetas de crédito", "deudas", "finanzas personales", "intereses"]
 emoji: "💳"

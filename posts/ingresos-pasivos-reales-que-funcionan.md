@@ -2,7 +2,7 @@
 title: "Ingresos pasivos reales: qué son, cuáles funcionan y cuáles son un mito"
 slug: "ingresos-pasivos-reales-que-funcionan"
 excerpt: "Internet está llena de gurús vendiendo 'libertad financiera con ingresos pasivos'. La realidad es más matizada. Te explicamos cuáles son genuinamente pasivos, cuáles requieren trabajo y cuáles son directamente un timo."
-date: "2024-05-06"
+date: "2026-05-06"
 category: "inversion"
 tags: ["ingresos pasivos", "inversión", "independencia financiera", "rentas"]
 emoji: "💸"
@@ -36,7 +36,7 @@ Si prefieres la apreciación del capital en lugar de dividendos, los ETFs de acu
 
 ### 2. Intereses de cuentas de ahorro y depósitos ⭐⭐⭐⭐ (pasividad 10/10)
 
-En 2024-2025, con tipos de interés más altos que en la última década, las cuentas remuneradas y depósitos ofrecen entre el 2% y el 4% TAE. Sin riesgo de mercado y con total liquidez (en el caso de cuentas).
+En 2025-2026, con tipos de interés más altos que en la última década, las cuentas remuneradas y depósitos ofrecen entre el 2% y el 4% TAE. Sin riesgo de mercado y con total liquidez (en el caso de cuentas).
 
 El límite: los tipos bajarán tarde o temprano, y no son suficientes por sí solos para la independencia financiera.
 

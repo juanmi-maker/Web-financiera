@@ -2,7 +2,7 @@
 title: "Interés compuesto: qué es y cómo hace crecer tu dinero solo"
 slug: "interes-compuesto-como-funciona"
 excerpt: "Einstein lo llamó la octava maravilla del mundo. Entiende cómo funciona el interés compuesto y por qué empezar a invertir joven es la mejor decisión financiera de tu vida."
-date: "2024-02-19"
+date: "2026-02-19"
 category: "basicos"
 tags: ["interés compuesto", "inversión", "ahorro", "tiempo"]
 emoji: "📈"

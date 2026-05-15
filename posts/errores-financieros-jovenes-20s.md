@@ -2,7 +2,7 @@
 title: "10 errores financieros que cometen los jóvenes de 20 años (y cómo evitarlos)"
 slug: "errores-financieros-jovenes-20s"
 excerpt: "Los errores financieros a los 20-30 años son los más caros, porque se pagan durante décadas. Estos son los 10 más comunes y cómo no caer en ellos."
-date: "2024-07-15"
+date: "2026-07-15"
 category: "basicos"
 tags: ["errores financieros", "jóvenes", "dinero", "finanzas personales", "20 años"]
 emoji: "⚠️"
