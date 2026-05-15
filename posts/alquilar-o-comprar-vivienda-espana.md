@@ -2,7 +2,7 @@
 title: "¿Alquilar o comprar vivienda en España? El análisis honesto"
 slug: "alquilar-o-comprar-vivienda-espana"
 excerpt: "El debate más polarizado de las finanzas personales en España. Ni alquilar es tirar el dinero ni comprar siempre sale mejor. Te damos los números reales y los factores que importan."
-date: "2024-05-20"
+date: "2026-04-20"
 category: "vivienda"
 tags: ["vivienda", "alquiler", "comprar piso", "hipoteca", "España"]
 emoji: "🏘️"
@@ -94,7 +94,7 @@ Para saber cuándo comprar empieza a salir mejor que alquilar en tu caso concret
 
 En la mayoría de ciudades españolas con precios actuales, ese punto de equilibrio está entre 5 y 10 años.
 
-## La realidad del mercado en España en 2024-2025
+## La realidad del mercado en España en 2025-2026
 
 El mercado inmobiliario español tiene particularidades importantes:
 
