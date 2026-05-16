@@ -29,10 +29,22 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Fraunces:wght@700;800&family=DM+Sans:wght@400;500;600&display=swap"
           rel="stylesheet"
         />
-        <link
-          rel="icon"
-          href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💸</text></svg>"
-        />
+
+        {/* Favicon principal */}
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+
+        {/* Apple */}
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
+        {/* PWA / Android */}
+        <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+        <link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png" />
+
+        {/* Site identity para Google */}
+        <meta name="application-name" content="Dinero Joven" />
+        <meta name="apple-mobile-web-app-title" content="Dinero Joven" />
         <meta name="theme-color" content="#064E3B" />
       </Head>
       <body>
